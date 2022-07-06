@@ -17,6 +17,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTipler", "De
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{59ECD97D-8EB3-48C3-B0EA-7E1F9DAC35E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{B4D5CD96-B9F1-457B-B047-A81F44615B1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{6272351B-298B-4AB0-B62C-F433E6ABDA1A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{59ECD97D-8EB3-48C3-B0EA-7E1F9DAC35E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59ECD97D-8EB3-48C3-B0EA-7E1F9DAC35E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59ECD97D-8EB3-48C3-B0EA-7E1F9DAC35E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4D5CD96-B9F1-457B-B047-A81F44615B1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4D5CD96-B9F1-457B-B047-A81F44615B1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4D5CD96-B9F1-457B-B047-A81F44615B1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4D5CD96-B9F1-457B-B047-A81F44615B1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6272351B-298B-4AB0-B62C-F433E6ABDA1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6272351B-298B-4AB0-B62C-F433E6ABDA1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6272351B-298B-4AB0-B62C-F433E6ABDA1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6272351B-298B-4AB0-B62C-F433E6ABDA1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
